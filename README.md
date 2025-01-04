@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Full Stack Web Developer**
 
-- 🌱 I’m currently learning **Laravel**
-
 - 📫 How to reach me **saputrailham373@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
