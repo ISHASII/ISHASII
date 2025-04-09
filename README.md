@@ -52,7 +52,7 @@ I'm a Full Stack Web Developer specializing in PHP/Laravel and JavaScript-based 
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishasii&show_icons=true&theme=radical)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishasii&theme=radical)
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishasii&" alt="ishasii" /></p>
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishasii&layout=compact&theme=radical)
   
