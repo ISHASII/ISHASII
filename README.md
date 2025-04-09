@@ -58,22 +58,9 @@ I'm a Full Stack Web Developer specializing in PHP/Laravel and JavaScript-based 
   
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-  
-  <a href="https://github.com/ishasii/project-name">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishasii&repo=project-name&theme=radical" />
-  </a>
-  
-  <!-- Add more projects as needed -->
-  
-</div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ishasii&style=flat-square&color=blueviolet" alt="Profile views"/>
   
-  ### "Code is like humor. When you have to explain it, it's bad." – Cory House
+  ### "Simplicity is the soul of efficiency."
 </div>
