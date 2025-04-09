@@ -58,6 +58,7 @@ I'm a Full Stack Web Developer specializing in PHP/Laravel and JavaScript-based 
   
 </div>
 
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ishasii&style=flat-square&color=blueviolet" alt="Profile views"/>
