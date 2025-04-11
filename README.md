@@ -105,15 +105,6 @@ const ilham = {
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Waifu" />
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Tea" />
 
-<img src="https://img.shields.io/badge/Built%20with-Waifu-pink?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Powered%20by-Tea-green?style=for-the-badge" />
-
-<img src="https://forthebadge.com/generator/?text=BUILT%20WITH-WAIFU-FF69B4" alt="Built with Waifu" />
-<img src="https://forthebadge.com/generator/?text=POWERED%20BY-TEA-008000" alt="Powered by Tea" />
-
-<img src="https://img.shields.io/badge/BUILT%20WITH-WAIFU-FF69B4?style=for-the-badge&labelColor=494949&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjAuODQgNC42MWE1LjUgNS41IDAgMCAwLTcuNzggMGwtMS4xNiAxLjE2LTEuMTYtMS4xNmE1LjUgNS41IDAgMCAwLTcuNzggNy43OGwxLjE2IDEuMTYgNy43OCA3Ljc4IDcuNzgtNy43OCAxLjE2LTEuMTZhNS41IDUuNSAwIDAgMCAwLTcuNzh6Ij48L3BhdGg+PC9zdmc+" />
-<img src="https://img.shields.io/badge/POWERED%20BY-TEA-008000?style=for-the-badge&labelColor=494949&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTggOGgtMSBNMTggOGMwLTMuMzE1LTIuNjg1LTYtNi02UzYgNC42ODUgNiA4aDEyeiBNMTggOHY4YTIgMiAwIDAgMS0yIDJINiBhMiAyIDAgMCAxLTItMlY4IiBmaWxsPSJub25lIi8+PC9zdmc+" />
-
 ## 📊 GitHub Stats
 
 <a href="https://github.com/ishasii">
