@@ -28,6 +28,7 @@ const ilham = {
 <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 ## 🔧 Technologies & Tools
+<div align="center">
 <table>
   <tr>
     <td align="center" width="96">
@@ -96,6 +97,7 @@ const ilham = {
     </td>
   </tr>
 </table>
+</div>
 
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
@@ -113,18 +115,6 @@ const ilham = {
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishasii&theme=tokyonight)
 </div>
-
-
-## 🌟 Featured Repositories
-<div align="center">
-  <a href="https://github.com/ishasii/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishasii&repo=project1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/ishasii/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishasii&repo=project2&theme=tokyonight" />
-  </a>
-</div>
-
 
 ---
 <div align="center">
