@@ -1,19 +1,19 @@
+<div align="center">
+  
 # Ilham Saputra 👨‍💻
-<div align="center">
-  
-  ![Coding Animation](https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilham-saputra26)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ishasi__/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saputrailham373@gmail.com)
-  
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Web+Developer;Laravel+%26+JavaScript+Specialist;Building+efficient+web+solutions" alt="Typing SVG" />
-</div>
+![Coding Animation](https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilham-saputra26)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ishasi__/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saputrailham373@gmail.com)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Web+Developer;Laravel+%26+JavaScript+Specialist;Building+efficient+web+solutions" alt="Typing SVG" />
 
 ## 💫 About Me
+
+<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+
 ```javascript
 const ilham = {
   role: "Full Stack Web Developer",
@@ -25,10 +25,10 @@ const ilham = {
 };
 ```
 
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<br clear="right">
 
 ## 🔧 Technologies & Tools
-<div align="center">
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -97,34 +97,29 @@ const ilham = {
     </td>
   </tr>
 </table>
-</div>
 
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-</div>
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 
 ## 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/ishasii">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishasii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishasii&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-  
-  <br>
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishasii&theme=tokyonight)
-</div>
+
+<a href="https://github.com/ishasii">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishasii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/ishasii">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishasii&layout=compact&langs_count=7&theme=tokyonight"/>
+</a>
+
+<br>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishasii&theme=tokyonight)
 
 ---
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishasii&style=flat-square&color=blueviolet" alt="Profile views"/>
-  
-  <div align="center">
-  
-  ### ✨ "Simplicity is the soul of efficiency." ✨
-  
-  </div>
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://komarev.com/ghpvc/?username=ishasii&style=flat-square&color=blueviolet" alt="Profile views"/>
+
+### ✨ "Simplicity is the soul of efficiency." ✨
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 </div>
