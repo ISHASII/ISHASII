@@ -114,17 +114,6 @@ const ilham = {
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishasii&theme=tokyonight)
 </div>
 
-## 📚 Current Projects
-```
-📌 Personal Portfolio Website
-   └── Tech Stack: Laravel, Tailwind CSS, Alpine.js
-   
-📌 E-commerce Application 
-   └── Tech Stack: Laravel, MySQL, Bootstrap
-   
-📌 Mobile-responsive Web Applications
-   └── Tech Stack: JavaScript, HTML5, CSS3
-```
 
 ## 🌟 Featured Repositories
 <div align="center">
@@ -136,12 +125,6 @@ const ilham = {
   </a>
 </div>
 
-## ⚡ Recent Activity
-<!--START_SECTION:activity-->
-1. 🔥 Pushed commits to repository [ishasii/project1](https://github.com/ishasii/project1)
-2. 🎯 Released [v1.0.0](https://github.com/ishasii/project2/releases/tag/v1.0.0) in [ishasii/project2](https://github.com/ishasii/project2)
-3. 💻 Opened PR [#5](https://github.com/ishasii/project3/pull/5) in [ishasii/project3](https://github.com/ishasii/project3)
-<!--END_SECTION:activity-->
 
 ---
 <div align="center">
