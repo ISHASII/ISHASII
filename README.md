@@ -126,4 +126,13 @@ const ilham = {
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
+<div align="center">
+  <h2>👾 Anime Coder Mode 👾</h2>
+  <img src="https://media1.tenor.com/m/f4eWSEz9HhEAAAAd/coding-typing.gif" width="500" alt="Anime Coding Animation" />
+  <p><em>When debugging turns into an anime battle...</em></p>
+  
+  <img src="https://media1.tenor.com/m/w3APLkMuTX0AAAAd/anime-computer.gif" width="400" alt="Anime Hacking Animation" />
+  <p><em>Still coding at 3AM be like...</em></p>
+</div>
+
 </div>
