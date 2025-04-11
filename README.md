@@ -20,7 +20,8 @@ const ilham = {
   focus: ["Web Applications", "APIs", "User Experience"],
   currentlyLearning: "Advanced Laravel Patterns",
   lookingToCollaborate: true,
-  contact: "saputrailham373@gmail.com"
+  contact: "saputrailham373@gmail.com",
+  motto: "Simplicity is the soul of efficiency"
 };
 ```
 
@@ -82,7 +83,7 @@ const ilham = {
       <br>Figma
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
     <td align="center" width="96">
@@ -95,6 +96,11 @@ const ilham = {
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+</div>
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -109,9 +115,16 @@ const ilham = {
 </div>
 
 ## 📚 Current Projects
-- 🚀 Personal portfolio website
-- 🛍️ E-commerce application with Laravel
-- 📱 Mobile-responsive web applications
+```
+📌 Personal Portfolio Website
+   └── Tech Stack: Laravel, Tailwind CSS, Alpine.js
+   
+📌 E-commerce Application 
+   └── Tech Stack: Laravel, MySQL, Bootstrap
+   
+📌 Mobile-responsive Web Applications
+   └── Tech Stack: JavaScript, HTML5, CSS3
+```
 
 ## 🌟 Featured Repositories
 <div align="center">
@@ -122,6 +135,13 @@ const ilham = {
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishasii&repo=project2&theme=tokyonight" />
   </a>
 </div>
+
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
+1. 🔥 Pushed commits to repository [ishasii/project1](https://github.com/ishasii/project1)
+2. 🎯 Released [v1.0.0](https://github.com/ishasii/project2/releases/tag/v1.0.0) in [ishasii/project2](https://github.com/ishasii/project2)
+3. 💻 Opened PR [#5](https://github.com/ishasii/project3/pull/5) in [ishasii/project3](https://github.com/ishasii/project3)
+<!--END_SECTION:activity-->
 
 ---
 <div align="center">
