@@ -10,6 +10,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Web+Developer;Laravel+%26+JavaScript+Specialist;Building+efficient+web+solutions" alt="Typing SVG" />
 
+</div>
+
 ## 💫 About Me
 
 <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
@@ -26,6 +28,8 @@ const ilham = {
 ```
 
 <br clear="right">
+
+<div align="center">
 
 ## 🔧 Technologies & Tools
 
