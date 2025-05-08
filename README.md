@@ -124,8 +124,6 @@ const ilham = {
 
 ### ✨ "Simplicity is the soul of efficiency." ✨
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 <div align="center">
   <h2>👾 Anime Coder Mode 👾</h2>
   <img src="https://media1.tenor.com/m/f4eWSEz9HhEAAAAd/coding-typing.gif" width="500" alt="Anime Coding Animation" />
