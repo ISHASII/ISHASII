@@ -114,6 +114,18 @@ const ilham = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishasii&layout=compact&langs_count=7&theme=tokyonight"/>
 </a>
 
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishasii&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishasii&theme=tokyonight" />
+
+</div>  
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishasii&theme=tokyonight" />
+</div>
+
 <br>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishasii&theme=tokyonight)
