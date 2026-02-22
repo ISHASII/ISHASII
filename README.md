@@ -107,14 +107,6 @@ const ilham = {
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/ishasii">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishasii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/ishasii">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishasii&layout=compact&langs_count=7&theme=tokyonight"/>
-</a>
-
-
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishasii&theme=tokyonight" />
