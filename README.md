@@ -10,6 +10,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Web+Developer;Laravel+%26+JavaScript+Specialist;Building+efficient+web+solutions" alt="Typing SVG" />
 
+<img src="mykomik.png" width="600" alt="Programmer Life Comic" />
+
 </div>
 
 ## 💫 About Me
