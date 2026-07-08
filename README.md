@@ -148,15 +148,6 @@ const ilham = {
 ### ✨ "Simplicity is the soul of efficiency." ✨
 
 <div align="center">
-  <h3>🎧 Now Playing 🎧</h3>
-  <a href="https://www.youtube.com/watch?v=iWeRglrNu6E" target="_blank">
-    <img src="https://img.youtube.com/vi/iWeRglrNu6E/maxresdefault.jpg" width="450" alt="tuki. 『零-zero-』Official Music Video" style="border-radius: 10px;" />
-  </a>
-  <br>
-  <p><strong>tuki. 『零-zero-』</strong></p>
-</div>
-
-<div align="center">
   <h2>👾 Anime Coder Mode 👾</h2>
   <img src="mykomik.png" width="600" alt="Programmer Life Comic" />
   <img src="https://media1.tenor.com/m/f4eWSEz9HhEAAAAd/coding-typing.gif" width="500" alt="Anime Coding Animation" />
