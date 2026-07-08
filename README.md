@@ -148,10 +148,12 @@ const ilham = {
 ### ✨ "Simplicity is the soul of efficiency." ✨
 
 <div align="center">
-  <p><em>Coding Soundtrack:</em></p>
+  <h3>🎧 Now Playing 🎧</h3>
   <a href="https://www.youtube.com/watch?v=iWeRglrNu6E" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-tuki._『零--zero--』-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Song" />
+    <img src="https://img.youtube.com/vi/iWeRglrNu6E/maxresdefault.jpg" width="450" alt="tuki. 『零-zero-』Official Music Video" style="border-radius: 10px;" />
   </a>
+  <br>
+  <p><strong>tuki. 『零-zero-』</strong></p>
 </div>
 
 <div align="center">
